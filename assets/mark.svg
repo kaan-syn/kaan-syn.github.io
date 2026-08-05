@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">4ES</title>
+  <desc id="desc">A laboratory tile with a four and three orbiting particles.</desc>
+  <rect width="128" height="128" rx="30" fill="#0b2231"/>
+  <path d="M22 64c15-28 69-44 86-13 16 30-36 56-71 38-32-17-10-61 26-66 34-5 57 31 31 62" fill="none" stroke="#23b8d1" stroke-width="4" stroke-linecap="round" opacity=".65"/>
+  <circle cx="25" cy="62" r="8" fill="#ff725f" stroke="#eef9f8" stroke-width="4"/>
+  <circle cx="94" cy="91" r="7" fill="#b5e875" stroke="#eef9f8" stroke-width="4"/>
+  <circle cx="94" cy="34" r="6" fill="#23b8d1" stroke="#eef9f8" stroke-width="4"/>
+  <text x="64" y="82" text-anchor="middle" font-family="monospace" font-size="58" font-weight="800" fill="#fff">4</text>
+</svg>
