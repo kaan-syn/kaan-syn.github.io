@@ -1,0 +1,4 @@
+# app-ads.txt for ChemPour (com.kaansayin.chemistrytuple)
+# Format: IAB Tech Lab app-ads.txt v1.0
+# Google AdMob, served as bidding demand inside Unity LevelPlay mediation.
+google.com, pub-3733449021642539, DIRECT, f08c47fec0942fa0
